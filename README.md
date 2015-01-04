@@ -13,4 +13,5 @@ Receiving email
 ![alt tag](https://github.com/matthewly/EWA/blob/master/WebContent/img/webalertBackEnd1.png)
 
 Inside email
+
 ![alt tag](https://github.com/matthewly/EWA/blob/master/WebContent/img/webalertBackEnd2.png)
